@@ -1,0 +1,13 @@
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\obj\Debug\netcoreapp3.1\Almacen Deportivo.csprojAssemblyReference.cache
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\obj\Debug\netcoreapp3.1\Almacen Deportivo.AssemblyInfoInputs.cache
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\obj\Debug\netcoreapp3.1\Almacen Deportivo.AssemblyInfo.cs
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\obj\Debug\netcoreapp3.1\Almacen Deportivo.csproj.CoreCompileInputs.cache
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\bin\Debug\netcoreapp3.1\Almacen Deportivo.exe
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\bin\Debug\netcoreapp3.1\Almacen Deportivo.deps.json
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\bin\Debug\netcoreapp3.1\Almacen Deportivo.runtimeconfig.json
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\bin\Debug\netcoreapp3.1\Almacen Deportivo.runtimeconfig.dev.json
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\bin\Debug\netcoreapp3.1\Almacen Deportivo.dll
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\bin\Debug\netcoreapp3.1\Almacen Deportivo.pdb
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\obj\Debug\netcoreapp3.1\Almacen Deportivo.dll
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\obj\Debug\netcoreapp3.1\Almacen Deportivo.pdb
+C:\Users\sofia\OneDrive - UPB\Poo\Trabajo final\Almacen Deportivo\Almacen Deportivo\obj\Debug\netcoreapp3.1\Almacen Deportivo.genruntimeconfig.cache
